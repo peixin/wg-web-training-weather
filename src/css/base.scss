@@ -1,0 +1,23 @@
+@import "~normalize.css/normalize.css";
+@import "mixin";
+
+html, body, body > div {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-size: $root-font-size;
+}
+
+.card {
+  background: linear-gradient(to right ,#00000026, #00000019);
+  border-radius: px2rem(16px);
+}
+
+.du {
+  &:after {
+    content: '˚';
+    margin-left: px2rem(3px);
+  }
+}

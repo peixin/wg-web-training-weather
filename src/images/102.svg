@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="114px" height="72px" viewBox="0 0 114 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>102</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页_正式版" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-2095.000000, -10547.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="102" transform="translate(2095.000000, 10547.000000)">
+                <path d="M18.117,30.196 C19.54,13.283 33.72,0 51,0 C68.214,0 82.35,13.18 83.865,30 L93,30 C104.598,30 114,39.402 114,51 C114,62.598 104.598,72 93,72 L21,72 C9.402,72 0,62.598 0,51 C0,40.38 7.883,31.601 18.117,30.196 Z M78,33 C78,18.088 65.912,6 51,6 C37.022,6 25.526,16.621 24.14,30.233 C34.249,31.75 42,40.47 42,51 C42,52.6568542 40.6568542,54 39,54 C37.3431458,54 36,52.6568542 36,51 C36,42.716 29.284,36 21,36 C12.716,36 6,42.716 6,51 C6,59.284 12.716,66 21,66 L93,66 C101.284,66 108,59.284 108,51 C108,42.716 101.284,36 93,36 L81,36 C79.3431458,36 78,34.6568542 78,33 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

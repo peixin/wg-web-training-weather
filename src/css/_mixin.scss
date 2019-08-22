@@ -1,0 +1,5 @@
+$root-font-size: 20px;
+
+@function px2rem($pixels) {
+  @return $pixels / $root-font-size * 1rem;
+}
